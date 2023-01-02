@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fonsecamilo89
+- 👀 I’m interested in C#, Python, Unity Games, Blender, Digital Art and Stuff
+- 🌱 I’m currently learning C#.
